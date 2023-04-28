@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617186701804",
+    "project_id": "ets-registration-40f44",
+    "storage_bucket": "ets-registration-40f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617186701804:android:c3d83de80eb16ec5c210c9",
+        "android_client_info": {
+          "package_name": "com.example.employee_tracking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617186701804-5gmbda2v8e5o13pl8s42s2r1g9rj8b8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.employee_tracking_system",
+            "certificate_hash": "907e2a9aa48c87bf30bd5ea1e4864881e5780b89"
+          }
+        },
+        {
+          "client_id": "617186701804-7oroipdm3up633qv318j40n23bbujtkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDzdzBP1hie8tyhAVXCo7Zc9xjeAjBGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617186701804-7oroipdm3up633qv318j40n23bbujtkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
